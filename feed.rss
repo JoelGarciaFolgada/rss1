@@ -1,0 +1,15 @@
+<rss version="2.0">
+    <chanel>
+        <title>Games</title>
+        <description>Games online</description>
+        <link>https://JoelGarciaFolgada.github.io</link>
+        <pubDate>Thu, 23 Nov 2023, 12:30</pubDate>
+        <managingEditor>JoelGarciaFolgada</managingEditor>
+        <item>
+            <title>Ikarian</title>
+            <link>https://JoelGarciaFolgada.github.io</link>
+            <pubDate>Thu, 23 Nov 2023, 12:30</pubDate>
+            <description>description of muy rss page about Ikarian</description>
+        </item>
+    </chanel>
+</rss>
